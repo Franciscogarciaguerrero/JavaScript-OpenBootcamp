@@ -1,0 +1,16 @@
+{
+  "name": "13-configuracion-y-uso-de-eslint",
+  "version": "1.0.0",
+  "main": "cadenas de texto.js",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
